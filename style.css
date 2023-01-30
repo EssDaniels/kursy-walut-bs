@@ -1,0 +1,13 @@
+/*
+Theme Name: Kursy walut
+Theme URI:  https://centrumprogramowania.pl
+Author: Dawid Skibiński
+Decsription: Tabela w wybranymi kursami walut. Pobiera dane z pliku XML, zapisuje je do bazy danych. 
+              Codziennie aktualizuje o godzinie 8:01, 12:01, 15:01
+Tags: 
+Version: 1.0
+Requires at latest: 6.0
+Test up to: 6.0.2
+Requires PHP: 7.4
+License: GNU General Public License v2 later
+*/
